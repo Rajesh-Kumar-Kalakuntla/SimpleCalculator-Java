@@ -39,7 +39,7 @@ package calculator;
                 }
             }
             public static void main(String[] args) {
-                Calculator operation =new Calculator();
+                Calculator_Interface operation =new Calculator();
                 System.out.println("WELCOME!!!");
                 operation.calculation();
     
